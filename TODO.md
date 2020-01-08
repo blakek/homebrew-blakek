@@ -10,6 +10,5 @@
 - [ ] [github-desktop-alias](https://github.com/blakek/github-desktop-alias)
 - [ ] [stree](https://github.com/blakek/stree)
 - [ ] [git-catchup](https://github.com/blakek/git-catchup)
-- [ ] [ignore-node_modules](https://github.com/blakek/ignore-node_modules)
+- [x] [ignore-node_modules](https://github.com/blakek/ignore-node_modules)
 - [ ] git-branch-cleanup (? no repo yet)
-
