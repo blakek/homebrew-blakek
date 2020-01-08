@@ -15,7 +15,11 @@ You can now install any scripts found in this repo:
 
 ```bash
 brew install pomodoro
+```
 
-# …also, a scoped version in case of naming collisions
+**NOTE:** I try to use names not found in the standard Homebrew list. However,
+in the case of a naming collision, use the scoped formula name. For example:
+
+```bash
 brew install blakek/blakek/pomodoro
 ```
