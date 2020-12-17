@@ -2,7 +2,7 @@ class Pomodoro < Formula
   desc "🍅 A simple terminal-based pomodoro timer"
   homepage "https://github.com/blakek/pomodoro"
   url "https://github.com/blakek/pomodoro/archive/v2.0.0.tar.gz"
-  sha256 "e9443f583f62dd58653b321676aa0735a9e9973e1606a0c42adcdae575eda404"
+  sha256 "2291a8f2598d27354ec53d8a96a67dc80c8d4785264c5d9443f8bbf94ff11195"
 
   depends_on "go" => :build
 
